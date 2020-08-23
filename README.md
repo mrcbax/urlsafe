@@ -18,7 +18,7 @@ Can also be used to re-arm a link with the decode option which works in reverse.
 Supports the following protocols:
 
 - [x] HTTP/S
-- [x] FTP
+- [x] FTP/S
 
 (if you would like other protocols to be added create an issue.)
 
