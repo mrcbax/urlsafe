@@ -1,6 +1,6 @@
 [package]
 name = "urlsafe"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Chad Baxter <cbaxter@mail.umw.edu>"]
 edition = "2018"
 
