@@ -1,3 +1,4 @@
+![URLSafe Logo](./urlsafe.svg)
 # URLSafe v0.1.0
 A tool to de-fang and re-arm malicious urls.
 
