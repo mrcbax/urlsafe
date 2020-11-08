@@ -3,7 +3,8 @@ name = "urlsafe"
 version = "0.1.1"
 authors = ["Chad Baxter <cbaxter@mail.umw.edu>"]
 edition = "2018"
-
+description = "A tool to defang and re-arm malicious URLs"
+license = "GPL-3.0"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
